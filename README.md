@@ -1,4 +1,4 @@
-# steal_ps steal chrome saved passwords  "undetectable"
+# steal_ps Stealing chrome's saved passwords "undetectable"
 <h1 align="center">steal passwords </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-mido--de3vil-orange">
