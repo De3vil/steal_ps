@@ -1,5 +1,5 @@
 # steal_ps steal chrome saved passwords  "undetectable"
-<h1 align="center">Get_Historyr</h1>
+<h1 align="center">steal passwords </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-mido--de3vil-orange">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
