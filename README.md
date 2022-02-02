@@ -30,8 +30,8 @@ This was tested on a Windows 10 .
 
 # Installation:
     ````
-    1. git clone https://github.com/De3vil/steal-_ps
-    2. cd steal-_ps
+    1. git clone https://github.com/De3vil/steal_ps.git
+    2. cd steal_ps
     3. pip install -r requirements.txt
     4. python3 Run_chr.py
     ````
