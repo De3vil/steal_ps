@@ -1,3 +1,4 @@
+colored
 mega.py
 pywin32
 pycryptodome
