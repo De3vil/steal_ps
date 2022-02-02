@@ -1,4 +1,4 @@
-colored
 mega.py
-pypiwin32
+pywin32
 pycryptodome
+colored
