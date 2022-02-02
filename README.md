@@ -32,7 +32,7 @@ This was tested on a Windows 10 .
     ````
     1. git clone https://github.com/De3vil/steal-_ps
     2. cd steal-_ps
-    3. python3 -r pip install  requirements.txt
+    3. pip install -r requirements.txt
     4. python Run_chr.py
     ````
 ### compiling
