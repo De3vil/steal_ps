@@ -37,7 +37,7 @@ def run():
 """)
 		file.write("				"+"x_up = chrom_passowrd.up("+"'"+email + "'" +"," + "'" + password +"'" + ")" + "\n")
 		file.write("""
-				exit()
+				break
 			except Exception:
 				sleep(5)
 """)
