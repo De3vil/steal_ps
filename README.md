@@ -49,9 +49,13 @@ This was tested on a Windows 10 .
     
  ## [+] Find Me on :
 <h4> Abdulrahman Mohammed </h4>
-<ul>
-   <li>Facebook  : <a href="https://www.facebook.com/De3vil.3/">Abdulrahman Mohammed</a></li>
-</ul>
+  <a href="https://t.me/De3vil_3">
+     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
+</a>
+  <a href="https://www.facebook.com/De3vil.3">
+     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  
 
 
 
