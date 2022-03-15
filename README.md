@@ -46,7 +46,10 @@ This was tested on a Windows 10 .
 # Screenshot
 ![](https://github.com/De3vil/steal-_ps/blob/main/Screenshot%202022-02-02%20172627.png)
 
-    
+***
+
+### Stars Rate
+![stars](https://starchart.cc/De3vil/steal_ps.svg)    
  ## [+] Find Me on :
 <h4> Abdulrahman Mohammed </h4>
   <a href="https://t.me/De3vil_3">
